@@ -2,7 +2,7 @@
 
 ### About Me
 
-- Upcoming SDE Intern at Amazon
+- SDE Intern at Amazon
 - AWS Certified Cloud Practitioner
 - Google Women Engineers Scholar (Cohort 4)
 - Interned at NoQs Digital as a Data Analyst
@@ -15,7 +15,7 @@
 
 ---
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,mysql,py,r,java,maven,c,cpp,html,css,js,bootstrap,tailwind,opencv,latex,matlab,figma,blender,git,github,gitlab,kali,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,mysql,react,py,r,java,maven,c,cpp,html,css,js,bootstrap,tailwind,opencv,latex,matlab,figma,blender,git,github,gitlab,kali,vscode&perline=12)](https://skillicons.dev)
 
 ---
 ### Connect With Me 🤝🏻
