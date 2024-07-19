@@ -15,7 +15,7 @@
 
 ---
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,mysql,react,py,r,java,maven,c,cpp,html,css,js,bootstrap,tailwind,opencv,latex,matlab,figma,blender,git,github,gitlab,kali,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,dynamodb,mysql,react,py,r,java,maven,c,cpp,html,css,js,bootstrap,tailwind,opencv,latex,matlab,figma,blender,git,github,gitlab,kali&perline=12)](https://skillicons.dev)
 
 ---
 ### Connect With Me 🤝🏻
